@@ -1,6 +1,6 @@
 #include <stdio.h>
-// A.Poojitha
-// RU-25-10001
+// Aditya Singh Thakur
+// RU-25-10114
 int sumOfDigits(int n) {
   int sum = 0;
 

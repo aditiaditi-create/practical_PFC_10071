@@ -1,6 +1,6 @@
 #include <stdio.h>
-// Name - Aditi Rathore
-// ERP ID - RU -25-10071
+// Name - Aditya Singh Thakur
+// ERP ID - RU -25-10114
 
 int main() {
   int pin = 1234, enteredPin, attempts = 0;
