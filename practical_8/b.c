@@ -1,6 +1,6 @@
 #include <stdio.h>
-// Aditya Singh Thakur
-// ERP ID - RU-25-10114
+// Aditi Rathore
+// ERP ID - 10071
 void swap(int *a, int *b) {
   int temp;
   temp = *a;

@@ -1,6 +1,6 @@
 #include <stdio.h>
-// Name - Aditya Singh Thakur
-// ERPID - RU -25-10114
+// Name - Aditi Rathore
+// ERPID - 10071
 int main() {
   int a, b;
 
