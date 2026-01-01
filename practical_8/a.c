@@ -1,6 +1,6 @@
 #include <stdio.h>
-// Aditya Singh Thakur
-// RU-25-10114
+// Aditi Rathore
+// ERP ID - 10071
 int sumOfDigits(int n) {
   int sum = 0;
 
